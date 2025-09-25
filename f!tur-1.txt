@@ -1,0 +1,3 @@
+ftur 1,
+-membuat tamplan form log!n dan regster
+-membuat faldas! untuk tiap-t!ap !nput tamplan form
